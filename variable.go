@@ -2,11 +2,11 @@ package msg_notification
 
 import "fmt"
 
-func double(x int) int {
+func Double(x int) int {
 	return x * x
 }
 
-func add(lhs, rhs int) int {
+func Add(lhs, rhs int) int {
 	return lhs + rhs
 }
 
